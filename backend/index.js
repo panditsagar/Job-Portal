@@ -13,7 +13,7 @@ dotenv.config({});
 connectDB();
 
 const app = express();
-
+  // set path 
 const _dirname = path.resolve();
 
 //middleware
