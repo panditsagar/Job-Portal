@@ -31,4 +31,4 @@ JobPortal is a full-stack web application designed to streamline the process of 
 
 ## Live Demo
 
-Explore the live version of JobPortal: [JobPortal Demo]
+Explore the live version of JobPortal: [JobPortal Demo](https://jobportal-8myv.onrender.com/)
